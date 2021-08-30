@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuraiRabbit
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Python, PHP, SQL, Java and C# as part of a coding traineeship.
+- 🌱 I’m currently doing a coding traineeship with ITCareer Switch. I am studying: JavaScript, Node.js, Git, Markdown, HTML, CSS, React, Redux, Express.js, SQL, Passport.js, PHP, Python, Java and C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
