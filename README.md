@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SamuraiRabbit
 - 👀 I’m interested in game development.
 - 🌱 I’m currently doing a coding traineeship with ITCareerSwitch. I am studying: JavaScript, jQuery, Node.js, Git, Markdown, HTML, CSS, React, Redux, Express.js, SQL, Passport.js, PHP, Python, Java and C# 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... nothing at the moment.
+- 📫 How to reach me ... on here!
 
 <!---
 SamuraiRabbit/SamuraiRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
